@@ -1,21 +1,18 @@
 # Angular-June 2023
 
-Курсът "Angular" ми даде знания и практически умения за изграждане на клиентски приложения (Single Page Applications) с технологията Angular, работна рамка произведение на Google и една от най-популярните в момента. Научих какво е TypeScript, основен синтакс и концепции и какво повече той предлага пред JavaScript, като удобства за разработка в браузъра и на мобилните платформи. Изучих какво е Single Page Application (SPA), архитектурни шаблони за SPA приложения, компоненти, директиви и реализацията им в Angular. Изучих изгледи и шаблони за визуализация на данни (templates), модели, компоненти, свързване на данни (data binding), работа с много изгледи, обзървабали (observables), рутиране (routing), извличане на данни от REST услуга и dependency injection (DI).
+The Angular course provides the knowledge and practical skills to build client applications (Single Page Applications) with Angular technology, a working framework produced by Google and one of the most popular currently. You'll learn what TypeScript is, the underlying syntax and concepts, and what more it offers over JavaScript, such as conveniences for development in the browser and on mobile platforms. You will learn what a Single Page Application (SPA) is, architectural patterns for SPA applications, components, directives and their implementation in Angular. Data visualization views and templates, patterns, components, data binding, multi-view handling, observables, routing, REST service data mining and dependency injection (DI) are studied.
 
-Умения, които придобих:
+Acquired skills
 
--Работа с отдалечени REST услуги
+  - Working with remote REST services
 
--Работа със SPA концепции
+  - Working with SPA concepts
 
--Разработка на клиентски приложения с Angular
+  - Developing client applications with Angular
 
--Изграждане на компонентно-базирани приложения
+  - Building component-based applications
 
--Основни познания по TypeScript
+  - Basic knowledge of TypeScript
 
--Работа с шаблони и рутиране
-
-Преподавател: Цвети Стоянов
-
+  - Working with templates and routing
 
